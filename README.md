@@ -1,4 +1,4 @@
-# 👋 Welcome to Prostecki's GitHub Profile! 
+# 👋 Welcome to My GitHub Profile! 
 
 Hi, I'm Mark Taratynov,
 Full-stack developer based in Stockholm, Sweden.
