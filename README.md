@@ -7,11 +7,13 @@
 
 <p align="center" style="margin-bottom: 20px;">
   <strong style="font-size: 18px;">🔥 GitHub Stats</strong><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
 <p align="center" style="margin: 30px 0;">
   <strong style="font-size: 18px;">🌟 Most Used Languages</strong><br>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
