@@ -2,21 +2,21 @@
 
 ### 🚀 **Full-stack Developer | Based in Stockholm, Sweden**  
 💡 Passionate about solving problems, learning, and building innovative projects that stand out.  
-<div style="display: flex; flex-direction: column; align-items: center">
-  
-### 🔥 **GitHub Stats**  
+
+---
+
 <p align="center">
+  <strong>🔥 GitHub Stats</strong><br>
   <img src="https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
-### 🌟 **Most Used Languages**  
 <p align="center">
+  <strong>🌟 Most Used Languages</strong><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-</div>
 
-### 👀 **Profile Views**  
 <p align="center">
+  <strong>👀 Profile Views</strong><br>
   <img src="https://komarev.com/ghpvc/?username=prostecki&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
