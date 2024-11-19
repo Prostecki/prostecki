@@ -19,6 +19,7 @@
 
 <p align="center" style="margin-top: 20px;">
   <strong style="font-size: 18px;">👀 Profile Views</strong><br>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=prostecki&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
