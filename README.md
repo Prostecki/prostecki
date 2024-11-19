@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark Taratynov</h1>
-<h3 align="center">A passionate frontend developer from IndiaFull-stack Developer | Based in Stockholm, Sweden</h3>
+<h3 align="center">Full-stack Developer | Based in Stockholm, Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prostecki&label=Profile%20views&color=0e75b6&style=flat" alt="prostecki" /> </p>
 
