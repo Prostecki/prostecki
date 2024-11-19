@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prostecki&label=Profile%20views&color=0e75b6&style=flat" alt="prostecki" /> </p>
 
-- 🌱 I’m currently learning **React.js, React Routes**
+- 🌱 I’m currently learning: **React.js, React Routes**
 
 - 👨‍💻 All of my projects are available at my portfolio, which is coming soon!
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me? **telegram: @marktaratynov**
 
-- ⚡ Fun fact **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
+- ⚡ Fun fact: **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
 
 <h3 align="center">Languages and Tools:</h3><br>
 <br>
