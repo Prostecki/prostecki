@@ -2,7 +2,7 @@
 
 ### 🚀 **Full-stack Developer | Based in Stockholm, Sweden**  
 💡 Passionate about solving problems, learning, and building innovative projects that stand out.  
-<div>
+<div style="display: flex; flex-direction: column; align-items: center">
   
 ### 🔥 **GitHub Stats**  
 <p align="center">
