@@ -10,10 +10,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
+<br>
+
 <p align="center">
   <strong>🌟 Most Used Languages</strong><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<br>
 
 <p align="center">
   <strong>👀 Profile Views</strong><br>
