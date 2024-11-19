@@ -1,7 +1,8 @@
 # 👋 Welcome to Prostecki's GitHub Profile! 
 
-Hi, I'm Mark Taratynov!  
-I love solving problems, learning new technologies, and building amazing projects. Here’s a quick overview of my GitHub journey:
+Hi, I'm Mark Taratynov,
+Full-stack developer based in Stockholm, Sweden.
+I do love solving problems, absorbing new knowledge and apply them into my projects, and building amazing something different. Here’s a quick overview of my GitHub journey:
 
 ---
 
@@ -17,8 +18,8 @@ I love solving problems, learning new technologies, and building amazing project
 ---
 
 ### 🌐 Connect with Me:
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 [Email](mailto:your-email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/marktaratynov)  
+- 📧 [Email](mailto:mark.taratynov@gmail.com)  
 
 ---
 
