@@ -45,4 +45,6 @@
 ---
 
 ✨ **Thanks for visiting!**  
+<p align="center>
 Explore my repositories and feel free to connect with me! 🚀
+  </p>
