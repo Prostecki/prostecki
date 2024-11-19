@@ -5,35 +5,25 @@
 
 ---
 
-<p align="center">
-  <strong>🔥 GitHub Stats</strong><br>
-
-  <br>
-  
+<p align="center" style="margin-bottom: 20px;">
+  <strong style="font-size: 18px;">🔥 GitHub Stats</strong><br>
   <img src="https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
-
-<p align="center">
-  <strong>🌟 Most Used Languages</strong><br>
-
-  <br>
-  
+<p align="center" style="margin: 30px 0;">
+  <strong style="font-size: 18px;">🌟 Most Used Languages</strong><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <strong>👀 Profile Views</strong><br>
-
-  <br>
-  
+<p align="center" style="margin-top: 20px;">
+  <strong style="font-size: 18px;">👀 Profile Views</strong><br>
   <img src="https://komarev.com/ghpvc/?username=prostecki&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🌐 **Connect with Me**  
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/marktaratynov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -45,6 +35,4 @@
 ---
 
 ✨ **Thanks for visiting!**  
-<p align="center">
-  Explore my repositories and feel free to connect with me! 🚀
-</p>
+Explore my repositories and feel free to connect with me! 🚀
