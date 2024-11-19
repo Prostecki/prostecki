@@ -9,7 +9,7 @@
 
 - 📫 How to reach me? **Telegram: @marktaratynov**
 
-- ⚡ Fun fact **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
+- ⚡ Fun fact: **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
