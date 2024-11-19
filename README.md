@@ -5,19 +5,19 @@ Welcome to my GitHub profile! I'm passionate about programming, learning new tec
 ---
 
 ### 🔥 My GitHub Stats:
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marktaratynov&show_icons=true&theme=radical&hide=prs,issues)
+![Mark's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues](https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues)
 
 ### 🌟 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marktaratynov&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical)
 
 ### 👀 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=marktaratynov&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=prostecki&color=blue&style=flat-square)
 
 ---
 
 ### 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 🌐 [Portfolio](https://your-portfolio-link.com)  
-- 📧 [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/marktaratynov)  
+- 🌐 [Portfolio](https://comming-soon.se)  
+- 📧 [Email](mailto:mark.taratynov@gmail.com)
 
 Thanks for visiting my profile! 🚀
