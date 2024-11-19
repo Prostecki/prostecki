@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Comming-soon..](Comming-soon..)
 
-- 📫 How to reach me **telegram: @marktaratynov**
+- 📫 How to reach me? **Telegram: @marktaratynov**
 
 - ⚡ Fun fact **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
 
