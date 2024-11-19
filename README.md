@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **React.js, React Routes**
 
-- 👨‍💻 All of my projects are available at [Comming-soon..](Comming-soon..)
+- 👨‍💻 All of my projects are available at my portfolio, which is coming soon!
 
-- 💬 Ask me about **Track and field (Elite lvl of knowledge)**
+- 💬 Ask me about... **Track and field (Elite lvl of knowledge)**
 
-- 📫 How to reach me **telegram: @marktaratynov**
+- 📫 How to reach me? **telegram: @marktaratynov**
 
 - ⚡ Fun fact **I'm an athlete specialized in 400m hurdles based in Sweden, Stockholm.**
 
