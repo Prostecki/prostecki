@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <strong>🔥 GitHub Stats</strong>
+  <strong>🔥 GitHub Stats</strong><br>
 
   <br>
   
