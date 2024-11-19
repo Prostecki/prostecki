@@ -1,11 +1,12 @@
-# 👋 Hi there, I'm Mark Taratynov! 
+# 👋 Welcome to Prostecki's GitHub Profile! 
 
-Welcome to my GitHub profile! I'm passionate about programming, learning new technologies, and building exciting projects. Below, you'll find my GitHub stats and most used languages. Feel free to explore and connect with me!
+Hi, I'm Mark Taratynov!  
+I love solving problems, learning new technologies, and building amazing projects. Here’s a quick overview of my GitHub journey:
 
 ---
 
 ### 🔥 My GitHub Stats:
-![Mark's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues])
+![Prostecki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues)
 
 ### 🌟 Most Used Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prostecki&layout=compact&theme=radical)
@@ -15,9 +16,10 @@ Welcome to my GitHub profile! I'm passionate about programming, learning new tec
 
 ---
 
-### 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/marktaratynov)  
-- 🌐 [Portfolio](https://comming-soon.se)  
-- 📧 [Email](mailto:mark.taratynov@gmail.com)
+### 🌐 Connect with Me:
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 📧 [Email](mailto:your-email@example.com)  
 
-Thanks for visiting my profile! 🚀
+---
+
+✨ Thanks for stopping by! Feel free to explore my repositories and connect with me! 🚀
