@@ -6,7 +6,10 @@
 ---
 
 <p align="center">
-  <strong>🔥 GitHub Stats</strong><br>
+  <strong>🔥 GitHub Stats</strong>
+
+  <br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=prostecki&show_icons=true&theme=radical&hide=prs,issues" alt="GitHub Stats" />
 </p>
 
