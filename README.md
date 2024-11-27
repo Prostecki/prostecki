@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prostecki&label=Profile%20views&color=0e75b6&style=flat" alt="prostecki" /> </p>
 
-- 🌱 I’m currently learning: **React.js, React Routes**
+- 🌱 I’m currently learning: **React.js, Tailwind.css**
 
 - 👨‍💻 All of my projects are available at my portfolio, which is coming soon!
 
