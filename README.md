@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my portfolio, which is coming soon!
 
-- 💬 Ask me about... **Track and field (Elite lvl of knowledge)**
+- 💬 Ask me about... **Everything you want, especially about athletics (the biggest part of my life)**
 
 - 📫 How to reach me? **telegram: @marktaratynov**
 
