@@ -1,6 +1,7 @@
 # Hey, I'm Mark 👋
 
 Fullstack developer specializing in GCP and AI-powered applications.
+🥇 **Google Cloud Associate Cloud Engineer (ACE)**
 
 I build end-to-end products — from React/Next.js frontends to 
 Python/Node.js backends — and deploy them on Google Cloud Platform.
@@ -17,4 +18,6 @@ Python/Node.js backends — and deploy them on Google Cloud Platform.
 - 🖼️ Event-driven image pipeline (Terraform + Eventarc + Cloud Functions)
 - 🤖 AI agent platform with RBAC and multi-tenant architecture
 
-📫 **linkedin.com/in/marktaratynov**
+📫 **LinkedIn:** linkedin.com/in/marktaratynov
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prostecki&show_icons=true&hide_border=true)
