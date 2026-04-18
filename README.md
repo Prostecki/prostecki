@@ -1,3 +1,20 @@
-# <p align="center">Hi! 👋 My name is Mark Taratynov.</p>
-### <p align="center">I’m a fullstack developer.</p>
-<p align="center">I’m a full-stack developer with a lifelong passion for problem-solving and technology. <br>From tweaking BIOS settings at age 10 to building full-stack applications today, I bring the same curiosity, discipline, and persistence—shaped by years as a competitive athlete — into every line of code I write.</p>
+# Hey, I'm Mark 👋
+
+Fullstack developer specializing in GCP and AI-powered applications.
+
+I build end-to-end products — from React/Next.js frontends to 
+Python/Node.js backends — and deploy them on Google Cloud Platform.
+
+**What I work with:**
+- **Frontend:** React, Next.js, TypeScript
+- **Backend:** Node.js, Python, FastAPI
+- **AI:** Google ADK, Vertex AI, Gemini Live, RAG pipelines
+- **GCP:** Cloud Run, Firestore, BigQuery, Cloud Tasks, Terraform
+- **Auth & Security:** JWT, Firebase Auth, Workload Identity Federation
+
+**Recent projects:**
+- 🏥 Voice AI agent for medical outreach (Gemini Live + Twilio + ADK)
+- 🖼️ Event-driven image pipeline (Terraform + Eventarc + Cloud Functions)
+- 🤖 AI agent platform with RBAC and multi-tenant architecture
+
+📫 **linkedin.com/in/marktaratynov**
